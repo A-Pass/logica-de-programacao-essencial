@@ -11,7 +11,7 @@ A[número da aula].E[número do exercício].descricao.
 
 ### Sobre os arquivo .drawio
 
-Como não sou usuário da plataforma 'Windows' fiz os exercícios relacionados a fluxogramas com um aplicativo alternativo, online e totalmente gratuito.
+Fiz os exercícios relacionados a fluxogramas com um aplicativo alternativo, online e totalmente gratuito.
 
 Segue o link: https://app.diagrams.net/
 
