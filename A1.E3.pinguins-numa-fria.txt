@@ -1,0 +1,23 @@
+Início do jogo
+  Embarca pinguim filho vermelho
+  Embarca pinguim pai vermelho
+  Atravessa
+  Desembarca pinguim pai vermelho
+  Atravessa
+  Embarca pinguim filho verde
+  Atravessa
+  Desenbarca peguim filho vermelho
+  Atravessa
+  Embarca peguim pai verde
+  Atravessa
+  Desenbarca peguim pai verde
+  Atravessa  
+  Embarca Pinguim filho azul
+  Atravessa
+  Desembarca peguim filho verde
+  Atravessa
+  Embarca peguim pai azul
+  Atravessa
+  Desembarca peguim pai azul
+  Desembarca peguim filho azul
+Fim do jogo
